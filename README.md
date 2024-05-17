@@ -6,7 +6,7 @@ This repository contains the source code for a simple Camera Button App, designe
 
 ## Features
 
-- **Single Button Capture:** The app features a single button interface for capturing photos, streamlining the process for users.
+- **Single Button Capture:** The app features a single button interface for capturing  photos, streamlining the process for users.
   
 - **Intuitive Design:** With a minimalist design, the app prioritizes simplicity and ease of use, making it accessible for users of all experience levels.
   
